@@ -1,6 +1,6 @@
 <h1>Hi, I'm Michael! <br/><a href="https://www.linkedin.com/in/michael-musoke/">Cybersecurity Enthusiast</a></h1>
 
-<h2>👨‍💻 Blue Team Certification:</h2>
+<h2>👨‍💻 Blue Team Certifications:</h2>
 
 - <b> Blue Team Junior Analyst</b>
   - [Blue Team Cert](https://elearning.securityblue.team/home/certificate/562739380)
