@@ -4,6 +4,7 @@
 
 - <b> Blue Team Junior Analyst</b>
   - [Blue Team Cert](https://github.com/Muts256/Blue-Team-Certs)
+  - Certificate of Completion.
   
 
 <h2> 🤳 Connect with me:</h2>
