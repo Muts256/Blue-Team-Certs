@@ -4,7 +4,12 @@
 
 - <b> Blue Team Junior Analyst</b>
   - [Blue Team Cert](https://github.com/Muts256/Blue-Team-Certs)
-  - Certificate of Completion.
+  - Certificate of Completion: Introduction to Vulnerability Management.
+  - Certificate of Completion: Introduction to Dark Web Operation.
+  - Certificate of Completion: Introduction to Digital Forensics.
+  - Certificate of Completion: Introduction to Network Analysis.
+  - Certificate of Completion: Introduction to OSINT.
+  - Certificate of Completion: Introduction to Threat Hunting.
   
 
 <h2> 🤳 Connect with me:</h2>
